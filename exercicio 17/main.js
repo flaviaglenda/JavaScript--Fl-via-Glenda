@@ -1,8 +1,6 @@
 //Flávia Glenda
-function updateParagraph() {
-    var inputField = document.getElementById("inputTexto");
-    var inputValue = inputField.value;
+function paragrafoNovo() {
 
-    var paragraph = document.getElementById("paragrafoTexto");
-    paragraph.textContent = inputValue;
+    let trocaTexto = document.getElementById("texto").value
+document.getElementById("paragrafo").innerHTML = trocaTexto
 }

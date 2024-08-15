@@ -1,4 +1,4 @@
 //Flávia Glenda
-function showMessage() {
+function mostrarMensagem() {
     alert("Deseja saber mais sobre este produto?");
 }

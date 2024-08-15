@@ -1,8 +1,6 @@
 //Flávia Glenda
-function displaySelection() {
+function exibirOpcao() {
     
-const dropdown = document.getElementById("dropdown");
-const selectedValue = dropdown.value;
-    
-alert("Você selecionou: " + selectedValue);
+let listaOpcoes = document.getElementById("opcao").value
+alert("Você selecionou: " + listaOpcoes)
 }

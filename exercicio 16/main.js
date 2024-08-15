@@ -1,5 +1,4 @@
 //Flávia Glenda
-function changeColor() {
-    var paragraph = document.getElementById("paragrafo");
-    paragraph.style.backgroundColor = "blue";
+function mudarCor() {
+document.getElementById('paragrafo').style.backgroundColor  = "blue";
 }

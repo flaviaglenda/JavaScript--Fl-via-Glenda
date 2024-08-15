@@ -1,4 +1,4 @@
 //Flávia Glenda
-function showWelcomeMessage() {
+function mensagem() {
     alert("Bem-vindo ao nosso site de notícias!");
 }
